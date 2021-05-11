@@ -1,8 +1,9 @@
 # HRMS.PostgreSql
 
 Relation descriptions :
-users (all types of users.)
-candidates (job seekers)
+
+users (all types of users.)    
+candidates (job seekers)   
 employees (hrms system workers)
 employers (employers for candidates)
 employer_activation_by_employees (employers activation method by employees)
